@@ -32,9 +32,15 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate by emailing attachments or having files on Google Drive,
+    for example.  Then merges would have to be done manually.  Obviously, using
+    Git and GitHub is easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Changing a separate branch can be good if you want to experiment or try a 
+    different version of a project (like easy-mode in the game example).  The
+    benefit of modifying in master is that it cuts down on some of the complexity
+    when you decide to keep changes, but the downside would be that any tinkering
+    would be committed into the main log of the project.  
